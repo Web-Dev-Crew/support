@@ -6,7 +6,7 @@
 
 ## Guides
 
-- Raise an [issue to join the web dev crew GitHub organization](https://github.com/Web-Dev-Crew/support/issues/new).
+- Raise an issue to [join the web dev crew GitHub organization](https://github.com/Web-Dev-Crew/support/issues/new).
 
 ---
 
